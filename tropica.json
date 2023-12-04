@@ -1,5 +1,5 @@
 {
-  "TropicaFoods":
+  "Tropica":
   [
     {"resName":"Mama Tigre","resDes":"This amazing fusion mix of Indian and Mexican cuisine will leave your cravings satisfied. From the combination of masala with salsa, this will ensure that you will come back another time. Try out Mama Tigre today!","resRate":"4.6/5","resCus":"Mexican/Indian", "resTime":"11am-9:30pm","resWeb":"https://mamatigre.com/","resImage":"mama-tigre.jpg"},
     {"resName":"Ocha Thai","resDes":"This yummy Thai resturant will leave you with awe, with the different creation of fusion drinks and different kinds of vibrant and diverse flavors of Thai Cuisine. Check out Ocha Thai today:)","resRate":"4.4/5","resCus":"Thai", "resTime":"11am-9:30pm","resWeb":"https://www.ochathaikitchen.com/","resImage":"ochathai.jpeg"},
