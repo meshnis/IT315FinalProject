@@ -1,0 +1,14 @@
+{
+  "TropicaFoods":
+  [
+    {"resName":"Mama Tigre","resDes":"This amazing fusion mix of Indian and Mexican cuisine will leave your cravings satisfied. From the combination of masala with salsa, this will ensure that you will come back another time. Try out Mama Tigre today!","resRate":"4.6/5","resCus":"Mexican/Indian", "resTime":"11am-9:30pm","resWeb":"https://mamatigre.com/","resImage":"mama-tigre.jpg"},
+    {"resName":"Ocha Thai","resDes":"This yummy Thai resturant will leave you with awe, with the different creation of fusion drinks and different kinds of vibrant and diverse flavors of Thai Cuisine. Check out Ocha Thai today:)","resRate":"4.4/5","resCus":"Thai", "resTime":"11am-9:30pm","resWeb":"https://www.ochathaikitchen.com/","resImage":"ochathai.jpeg"},
+    {"resName":"Maggianos","resDes":"As you enter this resturant, you will experience a aroma of Italian spices, ranging from many modern fusions of flavors from Italy. Come out to experience the full Italian meal.","resRate":"4/5","resCus":"Italian", "resTime":"11am-10pm","resWeb":"https://www.maggianos.com/?utm_source=google&utm_medium=cpc&utm_campaign=Acadia_Search_MaggianosBrand_Carryout_TysonsCorner&gclid=EAIaIQobChMIyeOV8677gQMViElyCh3tFQDPEAAYASAAEgIU5vD_BwE","resImage":"maggianos.jpeg"},
+    {"resName":"Sushu Umi","resDes":"The experience at Sushi Umi is incredible. The chefs make the food in front with such ease, and each bite has an amazing element of Japanese flavors. Try out Sushi Umi today.","resRate":"4.5/5","resCus":"Japanese", "resTime":"11:30am-2:30pm, 4:30pm=9:30pm","resWeb":"https://sushiumiva.com/","resImage":"sushi.jpeg"}],
+  
+  "Status":"OK"
+}
+
+        
+       
+        
